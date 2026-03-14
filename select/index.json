@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Rowan",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2026-03-14T05:11:30.316170Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rowan Atkinson  I Just Can't Wait to Be King [From Disney's ''The Lion King'']",
+      "artist": "Disney",
+      "has_synced": true,
+      "path": "select/01_Rowan_Atkinson_I_Just_Can't_Wait_to_Be_King_[From_Disney's_''The_Lion_King'']_Disney.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Rowan Tree / Tell Me That You Love Me",
+      "artist": "Nazareth",
+      "has_synced": false,
+      "path": "select/02_The_Rowan_Tree___Tell_Me_That_You_Love_Me_Nazareth.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Medley: Rowan Tree / Tell Me That You Love Me (edited version)",
+      "artist": "Nazareth",
+      "has_synced": true,
+      "path": "select/03_Medley__Rowan_Tree___Tell_Me_That_You_Love_Me_(edited_version)_Nazareth.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Medley: The Rowan Tree / Tell Me That You Love Me [*][edited version]",
+      "artist": "Nazareth",
+      "has_synced": true,
+      "path": "select/04_Medley__The_Rowan_Tree___Tell_Me_That_You_Love_Me_[_][edited_version]_Nazareth.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rowan Atkinson / I Just Can't Wait to Be King [From Disney's ''The Lion King'']",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/05_Rowan_Atkinson___I_Just_Can't_Wait_to_Be_King_[From_Disney's_''The_Lion_King'']_Various.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rowan",
+      "artist": "Official HIGE DANdism",
+      "has_synced": true,
+      "path": "select/06_Rowan_Official_HIGE_DANdism.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rowan",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/07_Rowan_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Rowan Tree / Tell Me That You Love Me",
+      "artist": "Nazareth",
+      "has_synced": true,
+      "path": "select/08_The_Rowan_Tree___Tell_Me_That_You_Love_Me_Nazareth.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Just Can't Wait To Be King - Jason Weaver/Rowan Atkinson/Laura Williams",
+      "artist": "Tim Rice/Elton John/Hans Zimmer",
+      "has_synced": false,
+      "path": "select/09_I_Just_Can't_Wait_To_Be_King_-_Jason_Weaver_Rowan_Atkinson_Laura_Williams_Tim_Rice_Elton_John_Hans_Zimmer.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Just Can't Wait to Be King (From \"The Lion King\"/Soundtrack Version) (feat. Rowan Atkinson & Laura Williams)",
+      "artist": "Jason Weaver",
+      "has_synced": true,
+      "path": "select/10_I_Just_Can't_Wait_to_Be_King_(From__The_Lion_King_Soundtrack_Version)_(feat._Row_Jason_Weaver.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Medley: The Rowan Tree/Teel Me That You Love Me",
+      "artist": "Nazareth",
+      "has_synced": true,
+      "path": "select/11_Medley__The_Rowan_Tree_Teel_Me_That_You_Love_Me_Nazareth.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mine, Mine, Mine (Jack Rowan Remix; Radio Edit)",
+      "artist": "Christopher",
+      "has_synced": true,
+      "path": "select/12_Mine,_Mine,_Mine_(Jack_Rowan_Remix;_Radio_Edit)_Christopher.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Main Rowan Tainon Yaad Kar Ke",
+      "artist": "Nusrat Fateh Ali Khan",
+      "has_synced": false,
+      "path": "select/13_Main_Rowan_Tainon_Yaad_Kar_Ke_Nusrat_Fateh_Ali_Khan.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Happy Birthday Rowan, Rowen, Rohan, Roan, Rowin",
+      "artist": "Happy Happy Song Machine",
+      "has_synced": false,
+      "path": "select/14_Happy_Birthday_Rowan,_Rowen,_Rohan,_Roan,_Rowin_Happy_Happy_Song_Machine.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Beneath a Rowan Tree",
+      "artist": "Emi Fujita",
+      "has_synced": false,
+      "path": "select/15_Beneath_a_Rowan_Tree_Emi_Fujita.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Beneath a Rowan Tree (5.1 mix)",
+      "artist": "Emi Fujita",
+      "has_synced": true,
+      "path": "select/16_Beneath_a_Rowan_Tree_(5.1_mix)_Emi_Fujita.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rowan",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_Rowan_Official髭男dism.txt"
+    }
+  ]
+}
